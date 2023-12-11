@@ -1,0 +1,49 @@
+@use 'sass:math';
+@import '../../assets/scss/common';
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins/functions';
+
+.c-article-detail {
+  padding-bottom: 3rem;
+  white-space: pre-line;
+  vertical-align: bottom;
+
+  &__photo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+  }
+
+
+  .box-info {
+    display: flex;
+    justify-content: end;
+    padding: 1rem 0;
+    font-weight: 600;
+  }
+  .col-12 {
+    p {
+      margin-bottom: 0.6rem;
+    }
+    .box-info {
+      margin-bottom: 0;
+    }
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .c-article-detail {
+    &__photo {
+      padding-right: 0;
+      padding-left: 0;
+    }
+    .box-info {
+      justify-content: start;
+    }
+    .box-photo {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+}
+

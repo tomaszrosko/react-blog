@@ -1,0 +1,63 @@
+@use 'sass:math';
+@import '../../assets/scss/common';
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins/functions';
+
+.c-contact {
+  background-color: $mountain-heaven;
+  height: 100%;
+  display: flex;
+  align-items: center;
+
+
+  .container {
+    padding: 50px 0;
+  }
+  label {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    font-weight: 700;
+  }
+  &__box {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+
+.emailForms {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+
+  input, textarea, button {
+    border-radius: 3px;
+    border: 1px solid $black-color;
+    padding: 10px;
+  }
+}
+@include media-breakpoint-down(xl){
+  .c-contact {
+    padding: rem(88px) 0;
+  }
+}
+
+@include media-breakpoint-down(lg){
+  .c-contact {
+    padding: rem(32px) 0;
+  }
+}
+
+@include media-breakpoint-down(sm){
+  .c-contact {
+    padding: 2rem 0;
+
+    .container {
+      padding-top: 0;
+    }
+  }
+}
+
+
+

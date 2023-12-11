@@ -1,0 +1,31 @@
+//@use './../../mixins/functions';
+//@import '../element/index';
+//@import '../../../assets/scss/element/index';
+@import '../variables';
+
+.section-bar {
+
+    h2 {
+        display: flex;
+        justify-content: center;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+
+    }
+}
+
+@include media-breakpoint-down(sm) {
+    .section-bar {
+
+        .bar {
+            padding-right: 0;
+            padding-left: 0;
+        }
+    }
+}
+
+

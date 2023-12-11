@@ -1,0 +1,38 @@
+{
+  "header": {
+    "home": "Home",
+    "wpisy": "Wpisy",
+    "oMnie": "O mnie",
+    "kontakt": "Kontakt"
+  },
+  "firstSlide": {
+    "title": "Przygody, o których nie marzyliśmy",
+    "img": "http://",
+    "imgTitle": "Przygody, o których nie marzyliśmy/M.Rośko",
+    "altTitle": "Przygody, o których nie marzyliśmy/M.Rośko",
+    "description": "Kiedyś napisałam tekst, który następnie kupił i opublikował pewien rozpoznawalny portal. Tekstowi nadałam tytuł, cytując z pewnego przemówienia: <i>“Przygody, o których nie marzyliśmy”</i>. Opisałam wtedy kilka wspomnień, które postrzegane jako z pozoru nieznaczące, sporo w moim życiu zmieniły. Właśnie tak wziął początek mój blog. Doświadczając wyjątkowości z pozoru banalnych chwil, zapraszam Cię na poszukiwanie inspiracji do otwartości, pozwalającej przeżyć przygody, o których nawet nie marzyliśmy:)"
+  },
+  "date":{
+    "title": "O mnie",
+    "description": "Kobieta, żona, inżynier. Zainteresowana światem, życiem, człowiekiem, rozwojem. Skupiona na poszukiwaniu prawdy. Nieśmiało notuje swoje spostrzeżenia z obserwacji rzeczywistości, w której w danym momencie się znajduje i dróg, którymi aktualnie kroczy.<br> Jeżeli któryś z moich tekstów wydaje Ci się ciekawy, chciał(a)byś mi o tym powiedzieć lub podzielić się wpisem na Twojej stronie zapraszam do kontaktu."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "telephone": "tel:48667264375",
+    "telephoneNumber": "573 462 766 84+",
+    "email": "mailto:magdalena.chuchmacz@wp.pl",
+    "emailText": "lp.pw@zcamhcuhc.aneladgam"
+  },
+  "footer": {
+    "copyright": "Copyright © 2023 Tomasz Rośko"
+  },
+  "locale": {
+    "pl": "Polski",
+    "en": "Angielski",
+    "auto": "Auto"
+  },
+  "error": {
+    "error404": "404 - Strona nie istnieje!",
+    "error500": "500 - Błąd serwera"
+  }
+}

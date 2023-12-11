@@ -1,0 +1,54 @@
+@use 'sass:math';
+@import '../../assets/scss/common';
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins/functions';
+
+.c-first-slide {
+  .container-fluid {
+    background-color: $section-bc;
+  }
+
+  .container {
+    position: relative;
+  }
+
+  &__title {
+    position: absolute;
+    top: 10%;
+    z-index: 2;
+    padding: 0.25rem;
+    background-color: rgb(211, 211, 211, 0.3);
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+  }
+
+  h1 {
+    margin-bottom: 0;
+  }
+
+
+  p {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin: 0;
+
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .section-first-slide {
+
+    .col-12 {
+      padding-right: 0;
+      padding-left: 0;
+    }
+
+    h1 {
+      font-size: 1.3rem;
+    }
+
+    .title-blog {
+      top: 61px;
+    }
+  }
+}

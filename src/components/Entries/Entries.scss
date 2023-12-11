@@ -1,0 +1,35 @@
+@use 'sass:math';
+@import '../../assets/scss/common';
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins/functions';
+
+.c-entries {
+  .container-fluid {
+    background-color: $section-bc;
+  }
+
+  .col-md-6 {
+    margin-bottom: 2rem;
+  }
+
+  .ic-right-arrow {
+    margin-left: .5rem;
+  }
+  .ic-right-arrow-white {
+    display: none;
+  }
+  ul {
+    margin-bottom: 0;
+  }
+}
+
+
+@include media-breakpoint-down(sm) {
+  .c-entries {
+    .container-fluid, .col-12 {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
+}

@@ -1,0 +1,53 @@
+@import '../../assets/scss/variables';
+
+body {
+  .row > * {
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-top: 0;
+  }
+}
+
+.btn {
+  &-more {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    color: black;
+    text-decoration: none;
+  }
+
+  &-border {
+    border: 1px solid black;
+  }
+
+  &-more-character {
+    @extend %color-black;
+    text-decoration: none;
+    padding: .6rem;
+    margin-bottom: .6rem;
+    background: linear-gradient(currentColor 0 0) 0 0,
+    linear-gradient(currentColor 0 0) 0 0,
+    linear-gradient(currentColor 0 0) 100% 100%,
+    linear-gradient(currentColor 0 0) 100% 100%;
+    background-size: var(--d, 0) 3px, 3px var(--d, 0);
+    background-repeat: no-repeat;
+    transition: 0.5s;
+  }
+
+  &-more-character:hover {
+    @extend %color-black;
+    --d: 100%;
+  }
+
+  &-send {
+    background-color: $nav-bc;
+    @extend %color-white;
+  }
+  &-send:hover {
+    transition: 0.5s;
+    background-color: $light-blue;
+    @extend %color-black;
+  }
+}
+

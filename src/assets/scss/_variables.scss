@@ -1,0 +1,53 @@
+@import 'node_modules/bootstrap/scss/functions';
+@import 'node_modules/bootstrap/scss/variables';
+@import 'node_modules/bootstrap/scss/mixins';
+
+.ratio-632x474 {
+  --bs-aspect-ratio: 75%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+$font-family-sans-serif: 'Roboto';
+
+
+// Colors
+
+$silver-light: #F5F5F5;
+$silver-dark: #93a4af;
+$green: #28e528;
+$light-blue: #b9dbe2;
+$nav-bc: #065578;
+$nav-font: #b8dced;
+$section-bc: #fafdff;
+$mountain-heaven: #eff8ff;
+$black-color: #000;
+$white-color:#fff;
+
+// Font-colors
+
+%color {
+    &-silver-dark {
+        color: $silver-dark;
+    }
+
+    &-green {
+        color: $green;
+    }
+
+    &-light-blue {
+        color: $light-blue;
+    }
+
+    &-font-nav {
+        color: $nav-font;
+    }
+    &-font-dark-nav {
+        color: $nav-bc;
+    }
+    &-black {
+        color: $black-color;
+    }
+    &-white {
+        color: $white-color;
+    }
+}

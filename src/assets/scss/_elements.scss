@@ -1,0 +1,139 @@
+@import '../../assets/scss/variables';
+
+body {
+  .row > * {
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-top: 0;
+  }
+}
+
+.btn {
+  &-more {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    color: black;
+    text-decoration: none;
+    background: linear-gradient(#000 0 0) 0% calc(-3px - 100%) /var(--d, 0%) 200% no-repeat;
+    transition: 0.3s, background-size 0.3s 0.3s;
+
+    //.ic-right-arrow {
+    //    transition-duration: 0.5s;
+    //}
+  }
+
+  &-more:hover {
+    --d: 100%;
+    background-position: 50% 0%;
+    color: #fff;
+    transition: 0.3s, background-position 0.3s 0.3s, color 0.3s 0.3s;
+
+    //.ic-right-arrow {
+    //  background: url('../img/svg/right-arrow-white.svg');
+    //  background-repeat: no-repeat;
+    //  background-size: contain;
+    //  display: inline-block;
+    //  height: 8px;
+    //  width: 15px;
+    //}
+    .ic-right-arrow {
+      display: none;
+    }
+    .ic-right-arrow-white {
+      margin-left: 0.5rem;
+      display: block;
+    }
+  }
+
+  &-donation {
+    @extend %color-black;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+
+    span {
+      background: linear-gradient(currentColor 0 0) 0 100% /var(--d, 0) 3px no-repeat;
+      transition: 0.5s;
+    }
+  }
+
+  &-donation:hover {
+    --d: 100%;
+    text-decoration: none;
+    @extend %color-black;
+  }
+
+  &-border {
+    border: 1px solid black;
+  }
+}
+
+
+
+
+// Flag
+.flag-title-dark {
+  position: absolute;
+  top: 5%;
+  margin-top: 0.2rem;;
+  padding: 0.4rem;
+  @extend %color-white;
+  background-color: rgb(0, 0, 0, 0.5);
+  //background-color: $black-color;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+.flag-title-bright {
+  position: absolute;
+  top: 5%;
+  padding: 0.4rem;
+  @extend %color-black;
+
+  background-color: rgb(255, 255, 255, 0.3);
+  //background-color: $white-color;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+.flag-watermark {
+  position: absolute;
+  right: 2%;
+  bottom: 4%;
+  padding: 0.2rem;
+  font-size: 16px;
+  line-height: 16px;
+  @extend %color-white;
+}
+
+.pulsing-3 {
+  margin-left: 1rem;
+  width: 50px;
+  height: 50px;
+  color: #dc1818;
+  background: radial-gradient(circle at 60% 65%, currentColor 62%, #0000 65%) top left,
+  radial-gradient(circle at 40% 65%, currentColor 62%, #0000 65%) top right,
+  linear-gradient(to bottom left, currentColor 42%, #0000 43%) bottom left,
+  linear-gradient(to bottom right, currentColor 42%, #0000 43%) bottom right;
+  background-size: 50% 50%;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.pulsing-3:after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: inherit;
+  opacity: 0.4;
+  animation: pl3 1s infinite;
+}
+
+@keyframes pl3 {
+  to {
+    transform: scale(1.8);
+    opacity: 0
+  }
+}
+

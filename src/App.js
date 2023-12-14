@@ -8,7 +8,6 @@ import Contact from "./components/Contact/Contact";
 import ArticleDetail from "./components/ArticleDetail/ArticleDetail";
 import {useEffect} from "react";
 import NotFound from './components/NotFound/notFound'
-import allEntries from "./components/AllEntries/AllEntries";
 
 const ScrollToTop = () => {
   const { pathname } = useLocation();

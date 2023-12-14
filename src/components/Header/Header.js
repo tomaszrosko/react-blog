@@ -1,7 +1,7 @@
 import './Header.scss'
 import Container from "react-bootstrap/Container";
-import {Link, Outlet} from "react-router-dom";
-import {Col, Dropdown, Row} from "react-bootstrap";
+import {Link} from "react-router-dom";
+import {Col, Row} from "react-bootstrap";
 import DropDownNav from './Dropdown';
 import Logo from "../../assets/img/svg/logo.svg";
 

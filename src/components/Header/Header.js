@@ -13,8 +13,7 @@ function Header() {
         <Row>
           <Col className={"c-nav"}>
             <div className={"c-nav__box-left"}>
-              <Link to="/"><img src={Logo} className={"ic-logo"} width={24} height={15} alt="Logo"/>Magdalena
-                Rośko</Link>
+              <Link to="/"><img src={Logo} className={"ic-logo"} width={24} height={15} alt="Logo"/></Link>
             </div>
             <div className="c-nav__burger d-sm-none">
               <DropDownNav/>

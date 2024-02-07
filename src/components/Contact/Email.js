@@ -13,9 +13,9 @@ const Email = () => {
     e.preventDefault();
 
     // Your EmailJJ Date
-    const serviceId = 'xxx';
-    const templateId = 'xxx';
-    const publicKey = 'xxx';
+    const serviceId = 'service_n3te7ha';
+    const templateId = 'template_x9d39a3';
+    const publicKey = 'c9VpQvtgGoU6yj2i6';
 
     // New Object
     const templateParams = {

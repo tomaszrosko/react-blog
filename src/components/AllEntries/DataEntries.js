@@ -6,8 +6,10 @@ import gory from '../../assets/img/gory.jpg';
 import goryMin from '../../assets/img/min/gory.jpg';
 import largeOfficeBuilding from '../../assets/img/large-office-building.jpg';
 import largeOfficeBuildingMin from '../../assets/img/min/large-office-building.jpg';
-import sedanParkedAtAdesertedAreaUnderAcloudySky from '../../assets/img/sedan-parked-at-a-deserted-area-under-a-cloudy-sky.jpg';
-import sedanParkedAtAdesertedAreaUnderAcloudySkyMin from '../../assets/img/min/sedan-parked-at-a-deserted-area-under-a-cloudy-sky.jpg';
+import sedanParkedAtAdesertedAreaUnderAcloudySky
+  from '../../assets/img/sedan-parked-at-a-deserted-area-under-a-cloudy-sky.jpg';
+import sedanParkedAtAdesertedAreaUnderAcloudySkyMin
+  from '../../assets/img/min/sedan-parked-at-a-deserted-area-under-a-cloudy-sky.jpg';
 import jimMorrison from '../../assets/img/jim-morrison.jpg';
 import jimMorrisonMin from '../../assets/img/min/jim-morrison.jpg';
 import goryMt from '../../assets/img/gory-mt.jpg';
@@ -20,9 +22,9 @@ import transcendencjiMin from '../../assets/img/min/w-poszukiwaniu-transcendencj
 
 const data = [
   {
-    "id": 1,
-    "title": "Biblijna Droga Krzyżowa",
-    "text": [
+    id: 1,
+    title: "Biblijna Droga Krzyżowa",
+    text: [
       "Rozważania przygotowane przeze mnie dla Duszpasterstwa Młodzieży przy Bazylice Ojców Karmelitów Na Piasku i wraz z prezentacją zostały wykorzystane do Nabożeństwa Biblijnej Drogi Krzyżowej 12.04.2019",
       "### **Wstęp**",
       "Z Ewangelii Św. Jana:\n *Niech się nie trwoży serce wasze. Wierzycie w Boga? I we Mnie wierzcie! W domu Ojca mego jest mieszkań wiele. Gdyby tak nie było, to bym wam powiedział. Idę przecież przygotować wam miejsce. A gdy odejdę i przygotuję wam miejsce, przyjdę powtórnie i zabiorę was do siebie, abyście i wy byli tam, gdzie Ja jestem. Znacie drogę, dokąd Ja idę». Odezwał się do Niego Tomasz: «Panie, nie wiemy, dokąd idziesz. Jak więc możemy znać drogę?» Odpowiedział mu Jezus: «Ja jestem drogą i prawdą, i życiem. Nikt nie przychodzi do Ojca inaczej jak tylko przeze Mnie.* \n Zapraszamy do medytacji czternastu scen z drogi krzyżowej Jezusa, opisanych okiem Ewangelistów. Niech staną się one dla nas inspiracją do poszukiwania prawdy i kroczenia drogą, która zaprowadzi nas do pełni Życia, którym jest Chrystus.",
@@ -85,22 +87,22 @@ const data = [
       "### **Zakończenie**",
       "Z Pierwszego Listu do Koryntian: \n *Lecz powie ktoś: A jak zmartwychwstają umarli? W jakim ukazują się ciele? O, niemądry! Przecież to, co siejesz, nie ożyje, jeżeli wprzód nie obumrze (…) Zasiewa się zniszczalne — powstaje zaś niezniszczalne, sieje się niechwalebne — powstaje chwalebne; sieje się słabe — powstaje mocne (…) A kiedy już to, co zniszczalne, przyodzieje się w niezniszczalność, a to, co śmiertelne, przyodzieje się w nieśmiertelność, wtedy sprawdzą się słowa, które zostały napisane: Zwycięstwo pochłonęło śmierć. Gdzież jest, o śmierci twoje zwycięstwo? Gdzież jest, o śmierci, twój oścień? Ościeniem zaś śmierci jest grzech, a siłą grzechu Prawo. Bogu niech będą dzięki za to, że dał nam odnieść zwycięstwo przez Pana naszego Jezusa Chrystusa.*"
     ],
-    "summary": "Rozważania przygotowane przeze mnie dla Duszpasterstwa Młodzieży przy Bazylice Ojców Karmelitów Na Piasku. Wraz z prezentacją zostały wykorzystane do Nabożeństwa Biblijnej Drogi Krzyżowej 12.04.2019r. ",
-    "alt": "Biblijna Droga Krzyżowa",
-    "flagWatermark": "26/07/2023 M.R.",
-    "image": chrustus,
-    "imageMin": chrustusMin,
-    "width": "614",
-    "height": "1024",
-    "widthMin": "632",
-    "heightMin": "474",
-    "flagColor": "flag-title-dark",
-    "tags": []
+    summary: "Rozważania przygotowane przeze mnie dla Duszpasterstwa Młodzieży przy Bazylice Ojców Karmelitów Na Piasku. Wraz z prezentacją zostały wykorzystane do Nabożeństwa Biblijnej Drogi Krzyżowej 12.04.2019r. ",
+    alt: "Biblijna Droga Krzyżowa",
+    flagWatermark: "26/07/2023 M.R.",
+    image: chrustus,
+    imageMin: chrustusMin,
+    width: "614",
+    height: "1024",
+    widthMin: "632",
+    heightMin: "474",
+    flagColor: "flag-title-dark",
+    tags: []
   },
   {
-    "id": 2,
-    "title": "ŻonkilowePodajDalej",
-    "text": [
+    id: 2,
+    title: "ŻonkilowePodajDalej",
+    text: [
       "Chociaż od social mediów i różnych “dziwnych” form pomocy dla potrzebujących(?) stronię, w tej akcji wzięłam udział. Dlaczego? Dlatego, że cel akcji w mojej ocenie jest bardzo właściwy a forma również nie sprawiła mi problemów. Zatem w mojej kategorii jest to mądra pomoc, którą warto wspierać.",
       "O co chodzi?",
       "*Z okazji 24 edycji Pól Nadziei, podczas której prowadzenie tradycyjnych kwest było bardzo ograniczone, Towarzystwo Przyjaciół Chorych „Hospicjum im. św. Łazarza\" w Krakowie zaprosiło uczestników do udziału w wiosennej akcji w mediach społecznościowych pod nazwą #ŻonkilowePodajDalej, której celem było wyrażenie troski o chorych i pozyskanie funduszy na działalność Hospicjum św. Łazarza.*\n*Poprzez narysowanie/sfotografowanie żonkilowego kwiatu i podzielenie się tym obrazem w mediach społecznościowych sprawiono, że chorzy doświadczyli namiastki wiosny.*",
@@ -110,31 +112,31 @@ const data = [
       "Tak więc wyrazy uznania dla Towarzystwa Przyjaciół Chorych „Hospicjum im. św. Łazarza\" w Krakowie. Ogromne podziękowania za waszą pracę.",
       "A gdyby ktoś myślał, że akcja dawno temu się skończyła i temat nieaktualny to **śpieszę wyjaśniać, że potrzeby Hospicjum cały czas są ogromne i Twój przelew na pewno szybko zostanie mądrze spożytkowany.**"
     ],
-    "summary": "Chociaż od social mediów i różnych “dziwnych” form pomocy dla potrzebujących(?) stronię, w tej akcji wzięłam udział. Dlaczego? Dlatego, że cel akcji w mojej ocenie jest bardzo właściwy a forma również nie sprawiła mi problemów. Zatem w mojej kategorii jest to mądra pomoc, którą warto wspierać...",
-    "alt": "Zbiórka na rzecz hospicjum",
-    "flagWatermark": "26/07/2023 M.R.",
-    "image": zonkile,
-    "imageMin": zonkileMin,
-    "width": "1288",
-    "height": "1717",
-    "widthMin": "632",
-    "heightMin": "474",
-    "linkTitle": "Wirtualna puszka hospicjum",
-    "linkAlt": "Darowizna",
-    "linkHref": "https://hospicjum.krakow.pl/wirtualna-puszka/",
-    "linkText": "Wirtualna puszka hospicjum:",
-    "linkClass": "btn-donation",
-    "tags": [
+    summary: "Chociaż od social mediów i różnych “dziwnych” form pomocy dla potrzebujących(?) stronię, w tej akcji wzięłam udział. Dlaczego? Dlatego, że cel akcji w mojej ocenie jest bardzo właściwy a forma również nie sprawiła mi problemów. Zatem w mojej kategorii jest to mądra pomoc, którą warto wspierać...",
+    alt: "Zbiórka na rzecz hospicjum",
+    flagWatermark: "26/07/2023 M.R.",
+    image: zonkile,
+    imageMin: zonkileMin,
+    width: "1288",
+    height: "1717",
+    widthMin: "632",
+    heightMin: "474",
+    linkTitle: "Wirtualna puszka hospicjum",
+    linkAlt: "Darowizna",
+    linkHref: "https://hospicjum.krakow.pl/wirtualna-puszka/",
+    linkText: "Wirtualna puszka hospicjum:",
+    linkClass: "btn-donation",
+    tags: [
       "Mądra pomoc",
       "ŻonkilowePodajDalej",
       "Hospicjum Św. Łazarza"
     ],
-    "flagColor": "flag-title-bright"
+    flagColor: "flag-title-bright"
   },
   {
-    "id": 3,
-    "title": "Wielopiętrowe życie w niskim świecie",
-    "text": [
+    id: 3,
+    title: "Wielopiętrowe życie w niskim świecie",
+    text: [
       "Osobą i życiem Christiana de Charge zainteresowałam się po raz pierwszy po medytacji nad jego testamentem. Już wtedy dostrzegłam jak genialny był to człowiek. Czułam to, ale nie widziałam dlaczego jest mi tak bliski? Co w nim jest? Po lekturze testamentu zapragnęłam poznać go bardziej. Internet, chociaż to podobno skarbnica wiedzy, pozwolił jedynie na zgłębienie prostych faktów z jego życiorysu: data urodzenia, krótki rys jak został trapistą, co działo się z nim w Algierii jak zginął. Trochę więcej można było przeczytać na temat faktów związanych z jego śmiercią i późniejszą beatyfikacją - kościół katolicki wyniósł Christiana, razem z pozostałymi zamordowanymi współbraćmi algierskiego klasztoru do godności błogosławionych. Jednak to w dalszym ciągu nie były informacje, które pozwoliłyby mi na spotkanie Christiana jako człowieka. Klimat jego życia nieco bardziej pomógł mi odnaleźć film Ludzie Boga  reżyserii Xaviera Beauvios. Film przybliża kulminacyjne punkty życia mnichów w klasztorze Tibhirine w Algierii oraz daje poruszające świadectwo dialogu, męczeństwa i śmierci zakonników (na marginesie film spotkał się ze świetnymi recenzjami krytyków, nagrodzony Grand Prix Cannes oraz francuskim Cesarem). Natomiast po jego lekturze w dalszym ciągu odczuwałam głód w poznaniu tej świetlistej postaci jaką wydawał mi się być  przełożony wspólnoty w Tibhirine - Christian.",
       "Dlatego następnym krokiem była lektura książki „Ludzie Boga”.  Książka jest zbiorem  pism  Christiana de Charge z lat 1974-1996. Już po przeczytaniu kilku pierwszych stron stwierdziłam, że trzymam w ręku ogromny skarb. W tej lekturze niewątpliwie spotkałam Christiana: tego prawdziwego, który owszem został zamordowany, ponieważ pozostał wierny swojemu powołaniu (albo jak twierdzą niektórzy naiwnie igrał z Islamem), ale przede wszystkim spotkałam człowieka, który każdego dnia wyrażał swój podziw nad każdym stworzonym człowiekiem: tym inaczej myślącym, tym o różnym kolorze skóry, innych zdolnościach, majątku, tym mówiącym obcym językiem oraz wierzącym inaczej. Christian odnajdywał sens w każdym dniu i w każdej sytuacji jaką dano mu było przeżyć. Kontemplował życie, które nie ma sufitu, które w żaden sposób nie jest limitowane. Jednocześnie dopingował siebie i innych, aby wciąż wzrastać. Jak pisał o tym w książce tego nauczyła go modlitwa:",
       "*\"(...) życie nie jest sytuacją osiągniętą raz na zawsze, ale jest pragnieniem, które ma wzrastać stopniowo, niczym wielopiętrowy dom. Nie żyjemy długo na jednym poziomie na tym niskim świecie.\"*",
@@ -142,21 +144,21 @@ const data = [
       "Czy faktycznie moje życie wygląda tak, że dobudowuje kolejne piętra wznosząc się w górę? Czy może odwrotnie: to co buduje to potężne okopy głęboko osadzone w betonowych fundamentach, od których nie chcę się oderwać? Czy pamiętam, że moim przeznaczeniem są wysokie loty? A gdzie w tym wszystkim jest drugi człowiek? Jest rywalem, któremu muszę dokopać czy partnerem, z którym idę ramię w ramię?",
       "Człowiek pewnego dnia, będzie musiał odejść z niskiego świata a o wartościowości życia, które przeżył chyba nie będzie świadczyć ilość przeżytych lat i rodzaj śmierci jaką zginął. Być może zamiast nieustannie zamartwiać się o zaspokajanie wszystkich potrzeb wielkiego świata i wartości, które muszę za wszelką cenę obronić, lepiej kontemplować małość tegoż i chwalić wolność nam daną i zadaną, która wznosi nas ku górze?"
     ],
-    "summary": "Osobą i życiem Christiana de Charge zainteresowałam się po raz pierwszy po medytacji nad jego testamentem. Już wtedy dostrzegłam, jak genialny był to człowiek. Czułam to, ale nie widziałam dlaczego jest mi tak bliski? Co w nim jest?...",
-    "alt": "Photo by Wiretock /Freepik",
-    "flagWatermark": "26/07/2023 M.R.",
-    "image": gory,
-    "imageMin": goryMin,
-    "width": "1288",
-    "height": "966",
-    "widthMin": "632",
-    "heightMin": "474",
-    "linkTitle": "Więcej o postaci",
-    "linkAlt": "Więcej o postaci",
-    "linkHref": "https://en.wikipedia.org/wiki/Christian_de_Cherg%C3%A9",
-    "linkText": "Więcej o postaci",
-    "linkClass": "btn-more-character",
-    "tags": [
+    summary: "Osobą i życiem Christiana de Charge zainteresowałam się po raz pierwszy po medytacji nad jego testamentem. Już wtedy dostrzegłam, jak genialny był to człowiek. Czułam to, ale nie widziałam dlaczego jest mi tak bliski? Co w nim jest?...",
+    alt: "Photo by Wiretock /Freepik",
+    flagWatermark: "26/07/2023 M.R.",
+    image: gory,
+    imageMin: goryMin,
+    width: "1288",
+    height: "966",
+    widthMin: "632",
+    heightMin: "474",
+    linkTitle: "Więcej o postaci",
+    linkAlt: "Więcej o postaci",
+    linkHref: "https://en.wikipedia.org/wiki/Christian_de_Cherg%C3%A9",
+    linkText: "Więcej o postaci",
+    linkClass: "btn-more-character",
+    tags: [
       "Christian de Charge",
       "trapiści,",
       "mnich",
@@ -170,12 +172,12 @@ const data = [
       "genialne życie",
       "wolność"
     ],
-    "flagColor": "flag-title-bright"
+    flagColor: "flag-title-bright"
   },
   {
-    "id": 4,
-    "title": "01.08 Czterdzieści Cztery",
-    "text": [
+    id: 4,
+    title: "01.08 Czterdzieści Cztery",
+    text: [
       "Wspólna lektura prasy z uroczą, energiczną, 95-latką. Czytamy właśnie artykuł o podróżowaniu. Jest coś koło 17. Lekturę przerywają nam syreny…",
       " -Powstanie (cisza), Wybuchło powstanie.",
       "(dłuższa cisza)",
@@ -189,21 +191,21 @@ const data = [
       "Powstanie – życiodajna Iskierka wiary w wolność, która dla innych przyjęła formę wyroku śmierci.",
       "Nie próbujmy odpowiadać na pytania, na które i tak nie znajdziemy odpowiedzi. Zamiast w kółko uparcie manifestować skrajności – uczmy się historii, szukając w niej życia."
     ],
-    "footerText": "Tekst ukazał się pierwotnie na moim prywatnym profilu na fb 01.08.2017",
-    "summary": "Wspólna lektura prasy z uroczą, energiczną, 95-latką. Czytamy właśnie artykuł o podróżowaniu. Jest coś koło 17. Lekturę przerywają nam syreny… - Powstanie (cisza), Wybuchło powstanie.\n (dłuższa cisza)\n - Od razu było wiadomo, że coś się dzieje. Niemcy wpadli do domu. Coś odburknęli. Wypadli. Poddenerwowani. Nie wrócili...",
-    "alt": "Rocznica wybuchu Powstania Warszawskiego",
-    "flagWatermark": "26/07/2023 M.R.",
-    "image": largeOfficeBuilding,
-    "imageMin": largeOfficeBuildingMin,
-    "width": "1288",
-    "height": "850",
-    "widthMin": "632",
-    "heightMin": "474",
-    "link": "https://www.freepik.com",
-    "link1": "https://pl.freepik.com/darmowe-zdjecie/duzy-budynek-biurowy_945371.htm#query=warszawa&position=19&from_view=search&track=sp",
-    "linkTitle": "Photo by Freepik.com",
-    "linkTitle1": "Obraz autorstwa bedneyimages",
-    "tags": [
+    footerText: "Tekst ukazał się pierwotnie na moim prywatnym profilu na fb 01.08.2017",
+    summary: "Wspólna lektura prasy z uroczą, energiczną, 95-latką. Czytamy właśnie artykuł o podróżowaniu. Jest coś koło 17. Lekturę przerywają nam syreny… - Powstanie (cisza), Wybuchło powstanie.\n (dłuższa cisza)\n - Od razu było wiadomo, że coś się dzieje. Niemcy wpadli do domu. Coś odburknęli. Wypadli. Poddenerwowani. Nie wrócili...",
+    alt: "Rocznica wybuchu Powstania Warszawskiego",
+    flagWatermark: "26/07/2023 M.R.",
+    image: largeOfficeBuilding,
+    imageMin: largeOfficeBuildingMin,
+    width: "1288",
+    height: "850",
+    widthMin: "632",
+    heightMin: "474",
+    link: "https://www.freepik.com",
+    link1: "https://pl.freepik.com/darmowe-zdjecie/duzy-budynek-biurowy_945371.htm#query=warszawa&position=19&from_view=search&track=sp",
+    linkTitle: "Photo by Freepik.com",
+    linkTitle1: "Obraz autorstwa bedneyimages",
+    tags: [
       "Warsaw uprising",
       "Powstanie 44",
       "Rocznica",
@@ -213,70 +215,70 @@ const data = [
       "Nie oceniaj",
       "Szanuj"
     ],
-    "flagColor": "flag-title-bright"
+    flagColor: "flag-title-bright"
   },
   {
-    "id": 5,
-    "title": "Dostrzec w sobie wartość",
-    "text": [
+    id: 5,
+    title: "Dostrzec w sobie wartość",
+    text: [
       "**Podobno pisanie pomaga w radzeniu sobie z emocjami. Więc…?:)**",
       "Znam kogoś, kto jako dziecko miał długą absencję w zajęciach lekcyjnych spowodowaną chorobą. Mówili o nim, że pewnie będzie musiał powtarzać rok – ten ktoś ukończył semestr z wynikiem w top 3 swojej klasy.\nZnam kogoś, kto w młodzieńczych latach był wątły, słaby i z kiepskimi wynikami w biegach. Mówiono, że w zawodach sportowych nic nie osiągnie – ta osoba w późniejszych latach zdobyła medal w zawodach rangi wojewódzkiej i była kapitanem drużyny na turnieju.\nZnam kogoś, kto w młodzieńczych latach był wątły, słaby i z kiepskimi wynikami w biegach. Mówiono, że w zawodach sportowych nic nie osiągnie – ta osoba w późniejszych latach zdobyła medal w zawodach rangi wojewódzkiej i była kapitanem drużyny na turnieju.\nZnam kogoś, kto w szkole „wymiatał z matematyki”, ale podobno to wykluczało dobrą umiejętność redagowania tekstów – po latach artykuł tego kogoś kupił i opublikował czołowy portal pewnej branży w kraju i na świecie a redaktor naczelny podsumował tekst stwierdzeniem „Bardzo dobry!”\nZnam kogoś, kto ze względu na swoją kiepską sytuację rodzinną, w ocenie postronnych, miał mieć poważne braki relacyjne w dorosłym życiu – ta osoba ma przyjaciół do grobowej deski, mnóstwo znajomych i drugą połówkę.\n      Znam kogoś, kto ze względu na swoje pochodzenie i brak znajomości, w ocenie innych, miał nie zrobić kariery. Teraz to były PM-em w topowych projektach swojej branży, współpracuje z największymi, jest cenionym pracownikiem. Lider kilku ciekawych, globalnych wręcz, projektów społecznych.\nZnam kogoś kto jako dziecko nie był zapraszany do akademii, różnych przedstawień i wystąpień publicznych, bo „się nie nadawał” – ta osoba w swoim dorosłym życiu udzieliła kilku wywiadów w TV, była zapraszana na kolejne, w tym programy „na żywo”.\nZnam kogoś, kto zdaniem jego nauczyciela „nie umiał angielskiego” – ta osoba za jakiś czas tłumaczyła swojego kolegę „z polskiego na angielski” na międzynarodowej konferencji.\nZnam kogoś o kim „profesor” z liceum twierdził, że czyta słabo – parę lat później profesor tytularny zachwycił się tą osobą jako swoim prywatnym lektorem …\nZnam kogoś… Ty też pewnie znasz. W tym miejscu idealnym będzie przytoczyć historię, która kilka dni wcześniej przykuła moją uwagę. Powyższy przykład tylko potwierdza jej autentyczność. Trzymajcie z ludźmi, którzy umieją dostrzec w Was wartość!A oto i historia(autor nieznany):",
       "*„Ojciec powiedział do córki: Z wyróżnieniem skończyłaś szkołę. Oto samochód, który kupiłem wiele lat temu. Teraz jest trochę starszy, ale zanim ci go dam, zabierz na giełdę używanych samochodów w centrum i powiedz im, że chcesz go sprzedać i zobacz ile ci za to oferują.\"Córka poszła na giełdę używanych pojazdów, wróciła do ojca i powiedziała:\" Zaoferowali mi 1.000 euro, bo mówili, że wygląda na zużyty.\"Ojciec zaproponował: ′′Idź do lombardu\". Okazało się, że lombard zaoferował tylko 100 euro, bo to stary samochód.Ojciec poprosił córkę, aby teraz poszła do klubu samochodowego i pokazała im samochód. Wobec tego córka pojechała samochodem do klubu, wróciła i powiedziała ojcu: ′′Niektórzy w klubie zaoferowali 100.000 euro, bo to Holden Torana i kultowy samochód i poszukiwany przez wielu kolekcjonerów.\"Teraz ojciec powiedział swojej córce: \"Właściwe miejsce ceni cię w odpowiedni sposób\"*.",
       "Jeśli nie jesteś ceniony, nie złość się, to znaczy, że jesteś w złym miejscu. Nigdy nie zostawaj w miejscu, gdzie nikt nie widzi Twojej wartości.”"
     ],
-    "footerText": "Tekst ukazał się pierwotnie na moim prywatnym profilu na fb 04/2021",
-    "summary": "Podobno pisanie pomaga w radzeniu sobie z emocjami. Więc…?:) Znam kogoś, kto jako dziecko miał długą absencję w zajęciach lekcyjnych spowodowaną chorobą. Mówili o nim, że pewnie będzie musiał powtarzać rok – ten ktoś ukończył semestr z wynikiem w top 3 swojej klasy...",
-    "alt": "Tekst o istocie własnej wartości",
-    "flagWatermark": "26/07/2023 M.R.",
-    "image": sedanParkedAtAdesertedAreaUnderAcloudySky,
-    "imageMin": sedanParkedAtAdesertedAreaUnderAcloudySkyMin,
-    "width": "1288",
-    "height": "966",
-    "widthMin": "632",
-    "heightMin": "474",
-    "link": "",
-    "link1": "",
-    "linkTitle": "Photo by Freepik.com",
-    "linkTitle1": "Obraz autorstwa bedneyimages",
-    "tags": [
+    footerText: "Tekst ukazał się pierwotnie na moim prywatnym profilu na fb 04/2021",
+    summary: "Podobno pisanie pomaga w radzeniu sobie z emocjami. Więc…?:) Znam kogoś, kto jako dziecko miał długą absencję w zajęciach lekcyjnych spowodowaną chorobą. Mówili o nim, że pewnie będzie musiał powtarzać rok – ten ktoś ukończył semestr z wynikiem w top 3 swojej klasy...",
+    alt: "Tekst o istocie własnej wartości",
+    flagWatermark: "26/07/2023 M.R.",
+    image: sedanParkedAtAdesertedAreaUnderAcloudySky,
+    imageMin: sedanParkedAtAdesertedAreaUnderAcloudySkyMin,
+    width: "1288",
+    height: "966",
+    widthMin: "632",
+    heightMin: "474",
+    link: "",
+    link1: "",
+    linkTitle: "Photo by Freepik.com",
+    linkTitle1: "Obraz autorstwa bedneyimages",
+    tags: [
       "Emocje",
       "poczucie własnej wartości",
       "rozwój",
       "unikalność",
       "wyjątkowość "
     ],
-    "flagColor": "flag-title-bright"
+    flagColor: "flag-title-bright"
   },
   {
-    "id": 6,
-    "title": "Jak znaleźć przygodę?",
-    "text": [
+    id: 6,
+    title: "Jak znaleźć przygodę?",
+    text: [
       "Być może zdarzyło Ci się przeglądać czyjeś zdjęcia w internecie z poczuciem zazdrości “inni to mają dobrze”. Cuda natury, zabytki, egzotyczne kraje, imprezy, podczas gdy ty siedzisz w domu i jedyne co widzisz to innych ludzi w drodze do pracy. Widzisz jeszcze wkurzającego szefa, korki albo tłok w komunikacji miejskiej przy powrocie. Wracasz, jesz śpisz, wstajesz. Mija dzień za dniem. Wciąż to samo. Aż wreszcie wakacje. Zbierasz swoją rodzinę i jedziesz, powiedzmy do Zakopanego, po czym frustrujesz się w kolejce na Giewont. Albo wykupujesz zagraniczną wycieczkę i spędzasz tydzień  w hotelowym mirze z prywatną plażą. Wracasz do domu. Niby było miło, ale Twoje wakacje wydają Ci się takie zwyczajne, znowu trzeba czekać rok na kolejne, znowu brak przygód. A czy zadałaś/eś sobie pytanie czy i dlaczego tak to działa?\n",
       "Może dlatego, że przygody i ekscytująca wydarzenia nigdy nie pojawiają się na Twoje zawołanie, bo akurat Ty masz wakacje. Spróbuj więc znaleźć przygodę najpierw w drodze do pracy. Ciekawe życie, aby było  faktycznie ciekawe musisz odnaleźć najpierw w sobie :)",
       "P.S.To zdjęcie w poście zrobiłam wałęsając się po jakiejś mieścinie we Włoszech, ponieważ nie rozumiem super włoskiego treść napisu na ścianie nie była mi znana. Na szczęście po kilku miesiącach od pstryknięcia fotki zdecydowałam się na uruchomienie translatora:) Napis brzmi: Życie jest jak lustro: uśmiecha się do ciebie, jeśli patrzysz na nie uśmiechnięty",
       "**P.S.2 W ramach pracy nad budowaniem w sobie uważnosci na uchwycenie przygód zachęcam Cię do wykonania szybkiego i prostego postanowienia**: w swojej najbliższej drodze z pracy do domu bądź obserwatorem. Po skończonej podróży wymień  jedną lub dwie rzeczy, które w jakiś sposób Cię zaskoczyły? Podrąż nieco  temat: czego one dotyczyły, jak sądzisz dlaczego akurat one jakoś były dla Ciebie w pewien sposób ważne?"
     ],
-    "footerText": "",
-    "summary": "Być może zdarzyło Ci się przeglądać czyjeś zdjęcia w internecie z poczuciem zazdrości “inni to mają dobrze”. Cuda natury, zabytki, egzotyczne kraje, imprezy, podczas gdy ty siedzisz...",
-    "alt": "Jak znaleźć przygodę?",
-    "flagWatermark": "26/07/2023 M.R.",
-    "image": jimMorrison,
-    "imageMin": jimMorrisonMin,
-    "width": "1288",
-    "height": "723",
-    "widthMin": "632",
-    "heightMin": "474",
-    "link": "",
-    "link1": "",
-    "linkTitle": "",
-    "linkTitle1": "",
-    "tags": [],
-    "flagColor": "flag-title-bright"
+    footerText: "",
+    summary: "Być może zdarzyło Ci się przeglądać czyjeś zdjęcia w internecie z poczuciem zazdrości “inni to mają dobrze”. Cuda natury, zabytki, egzotyczne kraje, imprezy, podczas gdy ty siedzisz...",
+    alt: "Jak znaleźć przygodę?",
+    flagWatermark: "26/07/2023 M.R.",
+    image: jimMorrison,
+    imageMin: jimMorrisonMin,
+    width: "1288",
+    height: "723",
+    widthMin: "632",
+    heightMin: "474",
+    link: "",
+    link1: "",
+    linkTitle: "",
+    linkTitle1: "",
+    tags: [],
+    flagColor: "flag-title-bright"
   },
   {
-    "id": 7,
-    "title": "Kochać oznacza wystawiać się na ryzyko",
-    "text": [
+    id: 7,
+    title: "Kochać oznacza wystawiać się na ryzyko",
+    text: [
       "**Czym jest miłość? Wszyscy o niej mówią, wszyscy o niej marzą, ale do tej pory nie doczekała się jednej i niezmiennej definicji… Dlaczego?**",
       "Czasami nawet wbrew sobie, nadarza mi się  możliwość obserwacji  par w różnych miejscach publicznych. Patrzeć na ich zachowanie, gesty, sposób w jaki się do siebie odnoszą. Jak, przy okazji czasu razem, widzą inne osoby, czy je w ogóle zauważają, są skupieni na sobie, jakie mają motywacje? Chociaż generalizowanie niekoniecznie jest w porządku, to z moich obserwacji z czasem wyłonił się podział: z tymi ludźmi fajnie pogadać, poznać, może nawiązać relację a od tamtych par chcę stronić z daleka. Może nie robią nic złego, jednak w ich zachowaniu wyczuwam coś, co spotykając się z tym dwojgiem ludzi sprawia, że dużo mnie to spotkanie kosztuje. Na początku nie wiedziałam o co chodzi? Może to kwestia wychowania, pochodzenia, kultury osobistej dwojga osób, sposobu dobierania się? Odpowiedź, była przecząca. Nawet  u osób, za którymi prywatnie nie przepadam zdarza się, że gdy ta osoba jest w związku - całkiem przyjemnie mi się z tą parą  rozmawia, bywa też odwrotnie - z osobna z każdą z pary jest super, ale gdy są razem - spotkanie oni+ja jakoś nie służy. Jako, że odpowiedź na powyższe pytanie  o kryteria podziału par w  żaden sposób nie stała się moim życiowym celem - pozostało więc przed długie lata bez odpowiedzi.",
       "Jednocześnie stając się dojrzałym człowiekiem coraz częściej pytałam siebie o miłość, związek, rodzinę. Nie chcąc polegać na ludowej mądrości szukałam w książkach, podręcznikach, artykułach.  Przykuwały mnie też przykłady, najmocniej te pozytywne. Z takiej ilości zgromadzonych informacji można było się efektywnie uczyć i chyba się to udało. Skoro ilu ludzi tyle definicji miłości poszukałam swojej własnej. W pakiecie przyszła odpowiedź na pytanie o kryterium podziału par: jedne się kochają, inne w mniejszym lub większym stopniu bardziej pożądają.\n",
@@ -288,21 +290,21 @@ const data = [
       "Temat miłości poruszony  przeze mnie dzisiaj jest  tematem  niezwykle  obszernym. Zamieszczone  tutaj  osobiste  wnioski  zostały  opisane  jedynie  pokrótce i w dużym  uproszczeniu, mogą stanowić pewien punkt odniesienia do pracy nad wnikliwym przemyśleniem tematu. Mam nadzieję, że zachęcą Cię do dalszych poszukiwań.  Poniżej zamieszczam  listę  źródeł z jakich  korzystałam, może posłużą  również  Tobie:",
       "A. Damasio - Błąd Kartezjusza\nP. Curtaz - Miłość i inne sporty ekstremalne\nG.  Chapman -  5 języków miłości\nUniwersytet SWPS:  K.Popiołek - Trudne czasy dla bliskich związków\nUniwersytet SWPS:  M. Janus - Seks zaczyna się w głowie. O neurobiologii funkcjonowania seksualnego\nUniwersytet SWPS: M. Pozdał - Kobieca seksualność. Czy naprawdę istnieją oziębłe kobiety?\nC.S. Levis - Cztery Miłości\nG.T. Stanton - The Ring Makes All the Difference: The Hidden Consequences of Cohabitation and the Strong Benefits of Marriage\nNY Times: M. Jay - The Downside of Cohabiting Before Marriage\nJ. Eldredge - Dzikie serce. Tęsknoty męskiej duszy\nS. Eldredge, J. Eldredge  - Urzekająca\nD. DePierre - A brief history of oral sex\nBiblia  -  Hymn o miłości (1 Kor 13)"
     ],
-    "footerText": "",
-    "summary": "Czym jest miłość? Wszyscy o niej mówią, wszyscy o niej marzą, ale do tej pory nie doczekała się jednej i niezmiennej definicji… Dlaczego?",
-    "alt": "Odpoczynek autora na zboczu szlaku",
-    "flagWatermark": "26/07/2023 M.R.",
-    "image": goryMt,
-    "imageMin": goryMtMin,
-    "width": "1288",
-    "height": "859",
-    "widthMin": "632",
-    "heightMin": "474",
-    "link": "",
-    "link1": "",
-    "linkTitle": "",
-    "linkTitle1": "",
-    "tags": [
+    footerText: "",
+    summary: "Czym jest miłość? Wszyscy o niej mówią, wszyscy o niej marzą, ale do tej pory nie doczekała się jednej i niezmiennej definicji… Dlaczego?",
+    alt: "Odpoczynek autora na zboczu szlaku",
+    flagWatermark: "26/07/2023 M.R.",
+    image: goryMt,
+    imageMin: goryMtMin,
+    width: "1288",
+    height: "859",
+    widthMin: "632",
+    heightMin: "474",
+    link: "",
+    link1: "",
+    linkTitle: "",
+    linkTitle1: "",
+    tags: [
       "miłość",
       "zakochanie",
       "małżeństwo",
@@ -310,7 +312,7 @@ const data = [
       "relacje",
       "związki"
     ],
-    "literature": [
+    literature: [
       "A. Damasio - Błąd Kartezjusza",
       "P. Curtaz - Miłość i inne sporty ekstremalne",
       "G.  Chapman -  5 języków miłości",
@@ -325,12 +327,12 @@ const data = [
       "D. DePierre - A brief history of oral sex",
       "Biblia  -  Hymn o miłości (1 Kor 13)"
     ],
-    "flagColor": "flag-title-bright"
+    flagColor: "flag-title-bright"
   },
   {
-    "id": 8,
-    "title": "Co warto czytać? Moje TOP3 książki",
-    "text": [
+    id: 8,
+    title: "Co warto czytać? Moje TOP3 książki",
+    text: [
       "Co warto czytać? Bez wątpienia wszystko, co Cię interesuje. A gdyby decydować pomiędzy cokolwiek a nic zdecydowanie wybierz cokolwiek, gdyż każda wiedza jest lepsza niż jej brak. Jeżeli zaś ciekawi Cię, które książki wywarły na mnie największy wpływ/odbiły ślad w moim życiu zachęcam do sprawdzenia mojego TOP 3",
       "**Miejsce 3**.",
       "Obsadzenie najniższego stopnia podium sprawiło mi chyba najwięcej problemów. Ostatecznie miejsce trzecie zostało przyznane ex aeqo dwóm pozycjom:",
@@ -343,21 +345,21 @@ const data = [
       "*Człowiek w poszukiwaniu sensu  - Viktor Frankl*",
       "Austriacki psychiatra w obozie koncentracyjnym  -  po takim wstępie  miałam duże obawy czy warto zabierać się do tej książki. Po czasach liceum i polskiego podejścia do literatury obozowej miałam, delikatnie rzecz ujmując, lekką niechęć do tego typu tematyki. Książkę jednak  całe szczęście przeczytałam. Spostrzeżenia: można inaczej. Odnajdując sens  w naszym życiu wszystko nabiera nieco kolorów nawet szaro popiołowe niebo nad Auschwitz. Dla jasności dodam, że książka składa się z dwóch części: pierwsza to właśnie wspomnienia autora z obozu koncentracyjnego,  druga jest poświęcona logoterapii - czyli metody psychoterapii opracowanej przez Viktora Frankla. Obie części książki są ze sobą ściśle związane a samo przeczytanie książki może być dla nas jakąś formą terapii i stanowić punkt życiowej rewolucji. Szczerze polecam. Otwierająca książka."
     ],
-    "footerText": "",
-    "summary": " Co warto czytać? Bez wątpienia wszystko, co Cię interesuje. A gdyby decydować pomiędzy cokolwiek a nic zdecydowanie wybierz cokolwiek, gdyż każda wiedza jest lepsza niż jej brak. Jeżeli zaś ciekawi Cię, które książki wywarły na mnie największy wpływ/odbiły ślad w moim życiu zachęcam do sprawdzenia mojego TOP 3.",
-    "alt": "Co warto czytać? Moje TOP3 książki",
-    "flagWatermark": "26/07/2023 M.R.",
-    "image": biblioteczka,
-    "imageMin": biblioteczkaMin,
-    "width": "1920",
-    "height": "1440",
-    "widthMin": "632",
-    "heightMin": "474",
-    "link": "",
-    "link1": "",
-    "linkTitle": "",
-    "linkTitle1": "",
-    "tags": [
+    footerText: "",
+    summary: " Co warto czytać? Bez wątpienia wszystko, co Cię interesuje. A gdyby decydować pomiędzy cokolwiek a nic zdecydowanie wybierz cokolwiek, gdyż każda wiedza jest lepsza niż jej brak. Jeżeli zaś ciekawi Cię, które książki wywarły na mnie największy wpływ/odbiły ślad w moim życiu zachęcam do sprawdzenia mojego TOP 3.",
+    alt: "Co warto czytać? Moje TOP3 książki",
+    flagWatermark: "26/07/2023 M.R.",
+    image: biblioteczka,
+    imageMin: biblioteczkaMin,
+    width: "1920",
+    height: "1440",
+    widthMin: "632",
+    heightMin: "474",
+    link: "",
+    link1: "",
+    linkTitle: "",
+    linkTitle1: "",
+    tags: [
       "książki",
       "literatura",
       "reportaż",
@@ -369,12 +371,12 @@ const data = [
       "sukces",
       "Kapuściński"
     ],
-    "flagColor": "flag-title-dark"
+    flagColor: "flag-title-dark"
   },
   {
-    "id": 9,
-    "title": "W poszukiwaniu transcendencji",
-    "text": [
+    id: 9,
+    title: "W poszukiwaniu transcendencji",
+    text: [
       "Dwudziesty pierwszy wiek. Era ekranów, ledów, laserów. Intensyfikacja barw, 100% nasycenia kolorem. Photoshop. Perfekcja. Perspektywa. Opracowane w detalach zdjęcia. Niedoskonałości ukryte pod tonami pudru i markowym ciuchem. Zdjęcie odpowiednio wykadrowane, żeby przedstawiało idealny świat materii. Trawa pomalowana na zielono… Relacja tu - rolka tam. Nowe story, nowe bodźce.. Wszystko takie piękne, takie ładne, proste. Życie cyfrowe… życie, gdzie jedyna głębia to głębia kolorów ekranu ajfona.",
       "Czy świat oszalał? Czy w pogoni za dowartościowaniem się i rywalizacją z innymi w cyfrowo-materialnym świecie istnieje piękno, które jest  po prostu naturalne i niezbywalne, ale zagubione w natłoku bodźców?",
       "Od tysięcy lat człowiek różnych kultur, regionów i obyczajów poszukuje w życiu czegoś więcej. Rytuały, religie, święta, festiwale to przejaw tęsknoty za głębią. Piękno sztuki, piękno przyrody - drogowskazy, które w obliczu wydawać by się mogło cyfrowego zatracenia sprowadzają mnie z powrotem ku życiu.",
@@ -387,21 +389,21 @@ const data = [
       "*Czas na śniadanie. Dwudniowe bułki z kabanosami smakują wybornie. Łyczek kawy i powrót. Najpierw z góry, zaczynam czuć nogi. Szybki postój  przy samochodzie. Trzeba jakoś  ogarnąć ubłocone buty. Kierunek - dom. W międzyczasie postój przy jakimś markecie, żeby kupić coś na obiad.*",
       "*15.00 Docieramy do domu. Prysznic. Pranie. Drzemka.  Obiad. …*"
     ],
-    "footerText": "",
-    "summary": "Dwudziesty pierwszy wiek. Era ekranów, ledów, laserów. Intensyfikacja barw, 100% nasycenia kolorem. Photoshop. Perfekcja. Perspektywa. Opracowane w detalach zdjęcia. Niedoskonałości ukryte pod tonami pudru i markowym ciuchem. Zdjęcie odpowiednio wykadrowane, żeby przedstawiało idealny świat materii. Trawa pomalowana na zielono… Relacja tu - rolka tam. Nowe story, nowe bodźce.. Wszystko takie piękne, takie ładne, proste. Życie cyfrowe… życie, gdzie jedyna głębia to głębia kolorów ekranu ajfona.",
-    "alt": "Szczebel o świcie/M.Rośko",
-    "flagWatermark": "05/09/2023 M.R.",
-    "image": transcendencji,
-    "imageMin": transcendencjiMin,
-    "width": "1920",
-    "height": "1440",
-    "widthMin": "632",
-    "heightMin": "474",
-    "link": "",
-    "link1": "",
-    "linkTitle": "",
-    "linkTitle1": "",
-    "tags": [
+    footerText: "",
+    summary: "Dwudziesty pierwszy wiek. Era ekranów, ledów, laserów. Intensyfikacja barw, 100% nasycenia kolorem. Photoshop. Perfekcja. Perspektywa. Opracowane w detalach zdjęcia. Niedoskonałości ukryte pod tonami pudru i markowym ciuchem. Zdjęcie odpowiednio wykadrowane, żeby przedstawiało idealny świat materii. Trawa pomalowana na zielono… Relacja tu - rolka tam. Nowe story, nowe bodźce.. Wszystko takie piękne, takie ładne, proste. Życie cyfrowe… życie, gdzie jedyna głębia to głębia kolorów ekranu ajfona.",
+    alt: "Szczebel o świcie/M.Rośko",
+    flagWatermark: "05/09/2023 M.R.",
+    image: transcendencji,
+    imageMin: transcendencjiMin,
+    width: "1920",
+    height: "1440",
+    widthMin: "632",
+    heightMin: "474",
+    link: "",
+    link1: "",
+    linkTitle: "",
+    linkTitle1: "",
+    tags: [
       "nature",
       "natura",
       "naturalność",
@@ -414,7 +416,7 @@ const data = [
       "sens",
       "inspiracje"
     ],
-    "flagColor": "flag-title-bright"
+    flagColor: "flag-title-bright"
   }
 ];
 

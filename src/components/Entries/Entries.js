@@ -2,12 +2,13 @@ import './Entries.scss';
 import Card from 'react-bootstrap/Card';
 import Container from "react-bootstrap/Container";
 import {Col, Ratio, Row} from "react-bootstrap";
-import Json from '../../assets/data/pl/entries.json';
+// import Json from '../../assets/data/pl/entries.json';
+import Articles from '../AllEntries/DataEntries' ;
 import {Link} from "react-router-dom";
 import RightArrow from '../../assets/img/svg/right-arrow.svg';
 import ArrowWhite from '../../assets/img/svg/right-arrow-white.svg';
 
-const lastEntries = Json.slice(-4);
+const lastEntries = Articles.slice(-4);
 const arrEntries = lastEntries.reverse();
 
 

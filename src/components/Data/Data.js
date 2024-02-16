@@ -29,7 +29,7 @@ function SectionDate() {
               <div className="title" id={"contact"}>Kontakt</div>
               <a href="/" className={"link-footer"}><img src={LogoBlack} className={"ic-logo-black"} width={24} height={15} alt="Logo" /><p>okśoR aneladgaM</p></a>
               <a href="tel:48667264375" className={"link-footer"}><img src={Phone} className={"ic-phone"} width={24} height={24} alt="Phone" /><p>573 462 766 84+</p></a>
-              <a href="mailto:magdalena.chuchmacz@wp.pl" class="link-footer"><img src={Message} className={"ic-message"} width={24} height={24} alt="Message" /><p>lp.pw@zcamhcuhc.aneladgam</p></a>
+              <a href="mailto:magdalena.chuchmacz@wp.pl" className="link-footer"><img src={Message} className={"ic-message"} width={24} height={24} alt="Message" /><p>lp.pw@zcamhcuhc.aneladgam</p></a>
             </Col>
           </Row>
         </Container>

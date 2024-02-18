@@ -10,7 +10,7 @@ function Footer() {
       <Container fluid>
         <Row className={"copyright text-center"}>
          <Col className={"col-12"}>
-           Copyright © 2023 Tomasz Rośko
+           Copyright © 2024 Tomasz Rośko
          </Col>
         </Row>
       </Container>

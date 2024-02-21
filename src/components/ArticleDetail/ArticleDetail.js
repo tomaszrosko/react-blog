@@ -74,7 +74,7 @@ function ArticleDetail() {
               {arrText}
             </Col>
             <Col xs={12} lg={8} className={"m-lg-auto"}>
-              <a href={linkHref} class={linkClass}  alt={linAlt}>{linkTitle}</a>
+              <a href={linkHref} className={linkClass}  alt={linAlt}>{linkTitle}</a>
             </Col>
             <Col xs={12} lg={8} className={"d-flex justify-content-between text-end m-auto py-3 pt-5"}><Link to='/' className={"btn btn-dark"}>Strona główna</Link><Link to='/allEntries' className={"btn btn-dark"}>Wszystkie wpisy</Link></Col>
           </Row>

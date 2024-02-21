@@ -9,7 +9,7 @@ function Index() {
    <section className={"c-first-slide"}>
      <Container fluid>
        <Row>
-         <Col xs={12} className={"px-0"}>
+         <Col xs={12} className={"px-0 position-relative"}>
            <div className="c-first-slide__title">
              <h1>Przygody, o których nie marzyliśmy</h1>
            </div>

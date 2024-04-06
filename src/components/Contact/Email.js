@@ -13,9 +13,10 @@ const Email = () => {
     e.preventDefault();
 
     // Your EmailJJ Date
-    const serviceId = 'service_n3te7ha';
-    const templateId = 'template_x9d39a3';
-    const publicKey = 'c9VpQvtgGoU6yj2i6';
+
+    const serviceId = process.env.React_App_SERVICE_ID;
+    const templateId = process.env.React_App_TEMPLATE_ID;
+    const publicKey = process.env.React_App_PUBLIC_KEY;
 
     // New Object
     const templateParams = {

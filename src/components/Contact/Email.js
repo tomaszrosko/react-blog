@@ -1,8 +1,8 @@
 import "./Contact.scss";
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 import emailjs from '@emailjs/browser';
 import Container from "react-bootstrap/Container";
-import {Col, Row} from "react-bootstrap";
+import { Col, Row } from "react-bootstrap";
 import ReCAPTCHA from 'react-google-recaptcha';
 
 const RECAPTCHA_KEY = process.env.React_App_RECAPTCHA_KEY;
@@ -15,6 +15,11 @@ const Email = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+
+    if (!name || !email || !message) {
+      alert('Please fill in all fields.');
+      return;
+    }
 
     if (!reCAPTCHAValue) {
       alert('Please verify that you are not a robot.');
@@ -41,7 +46,7 @@ const Email = () => {
           setName('');
           setEmail('');
           setMessage('');
-          setReCAPTCHAValue('');
+          setReCAPTCHAValue(''); // Wyczyszczenie wartości ReCAPTCHA
         })
         .catch((error) => {
           alert("Error sending email");
@@ -86,7 +91,7 @@ const Email = () => {
                         value={message}
                         placeholder="Tutaj wpisz treść"
                         onChange={(e) => setMessage(e.target.value)}>
-                   </textarea>
+                  </textarea>
                   </label>
                   <ReCAPTCHA sitekey={RECAPTCHA_KEY} onChange={handleReCAPTCHAChange} />
                   <button className={"btn-send"} type="submit">Wyślij wiadomość</button>

@@ -18,7 +18,8 @@ import biblioteczka from '../../assets/img/biblioteczka.jpg';
 import biblioteczkaMin from '../../assets/img/min/biblioteczka.jpg';
 import transcendencji from '../../assets/img/w-poszukiwaniu-transcendencji.jpg';
 import transcendencjiMin from '../../assets/img/min/w-poszukiwaniu-transcendencji.jpg';
-
+import wielkaCisza from '../../assets/img/wielka-cisza.jpg';
+import wielkaCiszaMin from '../../assets/img/min/wielka-cisza.jpg';
 
 const data = [
   {
@@ -415,6 +416,38 @@ const data = [
       "transcendencja",
       "sens",
       "inspiracje"
+    ],
+    flagColor: "flag-title-bright"
+  },
+  {
+    id: 10,
+    title: "Wielka cisza",
+    text: [
+      "Kończę intensywny dzień w pracy. Po natłoku spotkań, ustaleń i telefonów potrzebuję chwili wytchnienia. Krótki spacer ruchliwą ulicą i docieram na przystanek. Wchodzę do tramwaju, siadam w wygodnym miejscu, takim na walizki. Otwieram książkę. Czytam zdanie po zdaniu. Dwa siedzenia dalej trwa intensywna wymiana zdań między starszymi Panami. Zamiast treści książki do mojego mózgu docierają informacje o czyichś prywatnych sprawach typu: co zjadłem na śniadanie i po czym mam wzdęcia. Usiłuję się odciąć. Czytam zdanie raz, drugi, trzeci. Ile można o tych wzdęciach i śmierdzących stopach jeszcze? Wstaję i przesiadam się do drugiej części tramwaju. Względny spokój. Siadam, czytam. Tramwaj dociera do kolejnego przystanku. Wsiada młody mężczyzna z słuchawkami w uszach. Toczy jakąś biznesową konwersację przez telefon, ale jakby rozmawiał ze mną… ehh. Zamykam książkę. Byle wysiąść. Za chwilę donośliwy dzwonek tramwaju. Motorniczy zdenerwowany, bo ktoś zajechał mu drogę... Ryk silnika i pojazd sprzed tramwaju znika w tumanie kurzu. Po co te nerwy?  Przede mną panie komentują zaistniałą sytuację. Głośno i dobitnie. W końcu dojechałam, wysiadam. Już tak blisko domu. Idę przez park w akompaniamencie spalinowej kosiarki i dmuchawy. Nie jest to dobry akompaniament do przemyślenia co dziś jeszcze przede mną.  Po drodze, na klatce schodowej mijam sprzątaczkę z sąsiadką. Mam wrażenie, że panie licytują się na ilość wypowiedzianych w minucie słów. Wchodzę do mieszkania. Duszno, ale okna nie otworzę, bo akurat przed nim stoi sznur rechoczących samochodów a i sąsiad podkręcił coś na subwooferze, że aż ściany drżą …",
+      "W ostatnich latach sporo się mówi o zanieczyszczeniach powietrza, wód, gleb. Uciążliwe, fakt. Ja natomiast coraz bardziej doświadczam zanieczyszczenia hałasem. Ilość bodźców, którą dostarczamy swojemu organizmowi produkując najrozmaitsze, nie pochodzące z natury dźwięki  jest przeogromna. NIe ma czasu odpocząć. Chodzimy przestymulowani a mimo to produkujemy wokół siebie coraz to więcej hałasu. Nasz mózg, żeby prawidłowo funkcjonować potrzebuje odpoczynku. Ciszy. Braku informacji do przetworzenia. Tymczasem mam wrażenie, że niektórych cisza przeraża. Są ludzie, którzy gadają, gadają, gadają, gadają. A jak zaschnie im od gadania w gardle to włączają TV albo uruchamiają  bezprzewodowy głośnik, ewentualnie znajdą inną, generującą dźwięki zabawkę.",
+      "Ty również robisz wszystko, by zagłuszyć siebie  i wszystko dookoła? Nie chcesz usłyszeć swego wnętrza? Boisz się co tam odkryjesz? Zagłusza Cię świat? Nie obawiaj się. Wiedza to pierwszy krok do zdrowia. Zawalcz o ciszę.  Zawsze znajdziesz jakiś sposób, by pobyć sam ze sobą (dopuszczalnie z dźwiękami natury). Zatop się w ciszy  chociaż na godzinę. Sprawdź, czy potrafisz zamilknąć. Spróbuj usłyszeć, co w tym czasie mówi Twoje ciało, Twoje wnętrze. Może dostrzeżesz potrzeby, której przebijają się przez tą ciszę a które w codziennym życiu są skutecznie zagłuszane przez hałasujący świat. Zaopiekuj się sobą.",
+      "Jest takie powiedzenie, że najgłośniej bije pusty dzwon. NIe chciałbyś chyba być postrzegany jako pustego? Jeżeli szukasz sposobu na wyciszenie to napełnij swoje wnętrze: wartościowa książka, ciekawe hobby, spacer, medytacja, nowa kuchnia. Wtedy pokochasz ciszę i będziesz jej pragnął. Cisza z kolei napełni Cię po brzegi obfitością, pozwoli przyswoić informacje, poukładać mętlik w Twojej głowie, uspokoi Twoje myśli, podkreśli wartość Ciebie jako części wszechświata. Twoje ciało poczuje się  po prostu lepiej a ludzie z Twojego otoczenia docenią Twoją obecność bardziej, niż gdybyś zarzucił ich tysiącem (często nieprzemyślanych, zwyczajnie głupich) słów."
+    ],
+    footerText: "",
+    summary: "Kończę intensywny dzień w pracy. Po natłoku spotkań, ustaleń i telefonów potrzebuję chwili wytchnienia. Krótki spacer ruchliwą ulicą i docieram na przystanek. Wchodzę do tramwaju, siadam w wygodnym miejscu, takim na walizki. Otwieram książkę. Czytam zdanie po zdaniu. Dwa siedzenia dalej trwa intensywna wymiana zdań między starszymi Panami. Zamiast treści książki do mojego mózgu docierają informacje...",
+    alt: "Wielka cisza/M.Rośko",
+    flagWatermark: "18/04/2024 M.R.",
+    image: wielkaCisza,
+    imageMin: wielkaCiszaMin,
+    width: "1920",
+    height: "1080",
+    widthMin: "632",
+    heightMin: "474",
+    link: "",
+    link1: "",
+    linkTitle: "",
+    linkTitle1: "",
+    tags: [
+      "cisza",
+      "hałas",
+      "natura",
+      "wypoczynek",
+      "relaks"
     ],
     flagColor: "flag-title-bright"
   }

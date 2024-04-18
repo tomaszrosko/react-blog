@@ -396,7 +396,7 @@ const data = [
     image: transcendencji,
     imageMin: transcendencjiMin,
     width: "1920",
-    height: "1440",
+    height: "1080",
     widthMin: "632",
     heightMin: "474",
     link: "",

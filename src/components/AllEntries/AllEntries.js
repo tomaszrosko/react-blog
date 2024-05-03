@@ -1,13 +1,13 @@
 import React from 'react';
 import './AllEntries.scss';
 import Bar from '../Bar/Bar';
-import Title from '../Data/Title';
+import Title from '../AboutMe/components/Title';
 import Card from 'react-bootstrap/Card';
 import Container from "react-bootstrap/Container";
 import {Col, Ratio, Row} from "react-bootstrap";
 // import Articles from '../../assets/data/pl/entries.json';
 import Articles from './DataEntries' ;
-import Data from "../Data/Data";
+import AboutMe from "../AboutMe/AboutMe";
 import {Link} from "react-router-dom";
 
 const reverseArticles = Articles.reverse();
@@ -46,7 +46,7 @@ function AllEntries() {
           }
         </Container>
       </section>
-      <Data/>
+      <AboutMe/>
     </>
   );
 }

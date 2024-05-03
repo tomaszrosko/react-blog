@@ -1,7 +1,7 @@
 import './Home.scss'
 
 import FirstSection from '../FirstSlide/FirstSlide.js'
-import Data from "../Data/Data";
+import AboutMe from "../AboutMe/AboutMe";
 import SectionEntries from "../Entries/Entries";
 
 function Home() {
@@ -9,7 +9,7 @@ function Home() {
     <>
       <FirstSection />
      <SectionEntries />
-      <Data />
+      <AboutMe />
     </>
   );
 }

@@ -1,4 +1,4 @@
-import './Data.scss'
+import '../AboutMe.scss'
 import Container from "react-bootstrap/Container";
 
 function Title() {

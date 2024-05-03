@@ -1,4 +1,4 @@
-import './Data.scss'
+import './AboutMe.scss'
 import Container from "react-bootstrap/Container";
 import {Col, Row} from "react-bootstrap";
 import LogoBlack from "../../assets/img/svg/logo-black.svg";

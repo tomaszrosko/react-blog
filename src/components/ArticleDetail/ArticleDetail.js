@@ -6,7 +6,7 @@ import Card from "react-bootstrap/Card";
 import Markdown from 'react-markdown';
 import {getArticles} from '../../utils/langUtils';
 import Container from "react-bootstrap/Container";
-import Data from "../Data/Data";
+import AboutMe from "../AboutMe/AboutMe";
 import NoFound from '../NotFound/notFound';
 
 function ArticleDetail() {
@@ -25,7 +25,6 @@ function ArticleDetail() {
   }
   // Destructuring
   const {width, height, image, title, text, tags, linkTitle1, linkTitle, linAlt, linkHref, linkClass } = article;
-  //tymczasowe
   let ratioEntry = (height / width * 100);
 
   const arrText = text.map((arrVal) => {
@@ -80,7 +79,7 @@ function ArticleDetail() {
           </Row>
         </Container>
       </section>
-      <Data/>
+      <AboutMe/>
     </div>
   )
 }
